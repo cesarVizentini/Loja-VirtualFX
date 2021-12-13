@@ -1,11 +1,11 @@
 # Loja Virtual FX
 
-## Aplicativo de Loja com Java FX desenvolvido para a aula de POO
+### Aplicativo de Loja com Java FX desenvolvido para a aula de POO
 
-## Vídeo Demonstrativo: https://www.youtube.com/watch?v=zWFoFEoMmCg&ab_channel=cesaraugusto
-
-## Foi utilizado:
+### Foi utilizado:
 
 * Java FX
 * JDBC
 * MariaDB
+
+### Vídeo Demonstrativo: https://www.youtube.com/watch?v=zWFoFEoMmCg&ab_channel=cesaraugusto
